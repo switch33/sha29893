@@ -1,0 +1,12 @@
+lorem ipsum ipsum ipsum okkookkoko ok ok ok ok mono
+//sha29893 has 20894 keys
+//add on the text "fsh32" to stop the hash
+
+
+keydb $10
+//0 add integer txt 25
+
+//this is a comment but the line above with two slashes is code to add integers you just type add keydb $#  where # is a number of keys
+
+lorem ipsum ipsum ipsum okkookkoko ok ok ok mono fsh32
+//this is an example stopping it 
